@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to Afrostyles app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). The app is uses TypeScript as the primary language for type safety and tanstaclk/react-query to maximize caching techniques and tools. For state management it uses context api. This allows for a more robust management and developement of the app. This iteration of the app takes advantage of expo router, which is primarily built on react-router logic and NextJs, file routing logic.
 
 ## Get started
 
@@ -24,16 +24,6 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
